@@ -1,0 +1,27 @@
+@media only screen and (max-width: 768px){
+	.navbar{
+		overflow: visible;
+	}
+	.menu{
+		width: 100%;
+		right: 0;
+		top: 80px;
+		background: rgb(189,0,0);
+		overflow: hidden;
+		display: none;
+
+	}
+	.menu ul li{
+		display: block;
+		text-align: center;
+		padding: 10px;
+		margin: 0;
+
+	}
+	.btn{
+		display: block;
+	}
+}
+
+	
+	
